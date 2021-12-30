@@ -1,4 +1,4 @@
-# RaboTransaction_BackendAPP
+# BankTransaction_BackendAPP
 
 Please find the below steps to setup the and run the appication on your machine.
 1. git clone from github. 
